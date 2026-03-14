@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class Social_Media_Username_Availability_Checker {
-    // username -> userId
+
     static HashMap<String, Integer> users = new HashMap<>();
 
     // username -> attempt count
