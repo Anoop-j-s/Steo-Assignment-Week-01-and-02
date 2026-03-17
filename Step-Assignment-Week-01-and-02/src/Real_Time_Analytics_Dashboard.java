@@ -12,7 +12,7 @@ class PageEvent {
     }
 }
 
-class Real_Time_Analytics_Dashboard {
+class Real_Time_Analytics_Dashboardgir {
 
     // page → visit count
     static HashMap<String, Integer> pageViews = new HashMap<>();
